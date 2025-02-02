@@ -10,3 +10,4 @@ This is a demo app for git course
 ## Merge Conflict
 
 - Main branch
+- Bugfix branch
