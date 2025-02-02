@@ -1,6 +1,6 @@
-# GitSample Repo
+# GitDemo Repo
 
-This is a sample app for git course
+This is a demo app for git course
 
 ## Roadmap
 
