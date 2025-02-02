@@ -6,3 +6,7 @@ This is a demo app for git course
 
 - Add new features
 - Fix the bugs
+
+## Merge Conflict
+
+- Main branch
